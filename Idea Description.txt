@@ -1,0 +1,27 @@
+this will be very simple, plain web application that I believe will have millions of users.
+
+My targets for version 1 are:
+
+1. Make a landing page that reads
+	  CHECKLIST *green tick*
+	are you sure ? or be sure!
+
+- will have a textbox or dropbox to select activity like travelling, roadtripping etc
+- depending on the activity, few more dropbox will emerge like destination and starting point.
+- and then a button that reads "Check out!!!"
+
+- Need to setup login/ signup so that people can make personalized list & print them
+
+2. Intermediate page will have other options to choose from like select a more appropriate list based on description (amongst many options available)
+
+3. this will show list items in clickable buttons. 
+- Each button will have a small glyphicon on its right for not recommended.
+- Clicking button means user recommed item on list
+- a user can add more list items using the form at the end. (will be reviewed by us).
+
+4. a registered user can make or personalize lists
+
+5. Bussiness Model:
+	- advertisement
+	- links to ebay, amazon or local stores (they will be charged)
+	- a registered user will have lesser advirtesement and pay $1 a year.
